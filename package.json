@@ -1,6 +1,6 @@
 {
   "name": "kc-qstr",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "[js] Read a querystring and parse params.",
   "main": "index.js",
   "repository": {
